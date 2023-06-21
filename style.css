@@ -1,0 +1,68 @@
+.photoSlider{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.about{
+    background-color: #f2f2f2;
+}
+
+.line{
+    border: none;
+    border-top: 3px solid black;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.idesktop{
+    color: rgb(123, 121, 121);
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.iteam{
+    color: rgb(123, 121, 121);
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.teamcard>img:hover{
+    opacity: 0.8;
+}
+
+.gallery{
+    background-color: #f2f2f2;
+}
+
+.iphoto{
+    color: rgb(123, 121, 121);
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.figure:hover{
+    opacity: 0.8;
+}
+
+.imessage{
+    color: rgb(123, 121, 121);
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+    border: 10px solid white;
+    background-color: white;
+}
+
